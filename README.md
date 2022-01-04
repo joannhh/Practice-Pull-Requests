@@ -8,7 +8,7 @@ That's why we created this contribution practice repository. You can feel free t
 
 ## How it works
 
-Each Call for Code project typically has at four files in it that describe how new contributors can take part in the community.
+Each Call for Code project typically has four files in it that describe how new contributors can take part in the community.
 
 1. The `README.md` file. It's this document you're reading right now. It's the first file you look at to understand what a project is, what it does, and who's involved.
 
